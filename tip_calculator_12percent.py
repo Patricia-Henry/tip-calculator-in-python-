@@ -1,3 +1,4 @@
+#Tip Calculator based on the tip being 12 percent
 #Ask for total bill
 print("What was the total bill?")
 total_bill = input()
