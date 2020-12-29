@@ -1,5 +1,5 @@
 #Ask for total bill
-#chnaged this to be less code - cleaner
+#changed this to be less code - cleaner
 total_bill = float(input("What was the total bill? $"))
 
 #Ask for how many people are splitting the bill
