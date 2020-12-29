@@ -1,7 +1,6 @@
-#Tip Calculator based on the tip being 12 percent
 #Ask for total bill
-print("What was the total bill?")
-total_bill = input()
+#chnaged this to be less code - cleaner
+total_bill = float(input("What was the total bill? $"))
 
 #Ask for how many people are splitting the bill
 print("How many people to split the bill?")
